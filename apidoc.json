@@ -1,0 +1,20 @@
+{
+	"name": "example-inherit",
+    "version": "0.1.0",
+    "description": "apiDoc inherit example",
+	"url": "localhost:3000",
+	"order": [
+		"adproduct",
+		"brand",
+		"category",
+		"group",
+		"index",
+		"info",
+		"inven",
+		"job",
+		"point",
+		"product",
+		"tags",
+		"tc"
+	]
+}
